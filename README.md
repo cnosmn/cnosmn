@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-As an R&D-focused software engineer, I develop innovative solutions using cutting-edge technologies. While gaining expertise in artificial intelligence, computer vision, and recommendation systems, I also deliver comprehensive web and mobile solutions. With 2 years of professional experience, I've actively participated in TUBITAK projects, technology platforms, and digital transformation initiatives across various sectors.
+As an R&D-focused software engineer, I develop innovative solutions using cutting-edge technologies. While gaining expertise in artificial intelligence, computer vision, and recommendation systems, I also deliver comprehensive web and mobile solutions. With 2 years of professional experience, I have actively participated in TUBITAK projects, technology platforms, and digital transformation initiatives across various sectors and I continue to do so.
 
 ## 🛠️ Tech Stack
 
