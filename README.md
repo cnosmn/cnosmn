@@ -62,7 +62,7 @@ Served as a backend developer for an after-sales service software project for co
 ### 🔹 Online Education Platform
 Worked as a fullstack developer on customized digital education platform projects for educational institutions. Developed live classroom, content management, and student tracking systems using Django and React.js.
 
-### 🔹 TUSIAD SD2 Platform
+### 🔹 TUSIAD SD2 Platform Project
 Contributed to problem identification, solution development, and technology integration phases as a technology provider in digital transformation processes. Delivered technical presentations during project meetings.
 
 ## 💼 Professional Goals
